@@ -26,6 +26,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **a big deal**
+- **soar grapes**
+- **hear something through the grapevine**
+- **a big no-no**
 - **someone is no spring chicken** - niekto už nie je najmladší
 - **to chicken out** - neskúsiť, vyhnúť sa niečomu kvôli strachu
 - **to run around like a headless chicken** - chaoticky sa chovať/pobehovať
