@@ -26,10 +26,14 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
-- **a big deal**
-- **soar grapes**
-- **hear something through the grapevine**
-- **a big no-no**
+- **being tight** - byť skúpy, šporovlivý
+- **to tighten your belt** - utianuť opasok, nerozhadzovať peniaze
+- **hold your tongue** - držať jazyk za zubami
+- **to make a slip of the tongue** - prerieknuť sa / skomoliť
+- **a big deal** - niečo podstatné
+- **soar grapes** - čistá závisť
+- **hear something through the grapevine** - dopočuť sa (z druhej ruky)
+- **a big no-no** - ničo zakázané
 - **someone is no spring chicken** - niekto už nie je najmladší
 - **to chicken out** - neskúsiť, vyhnúť sa niečomu kvôli strachu
 - **to run around like a headless chicken** - chaoticky sa chovať/pobehovať
