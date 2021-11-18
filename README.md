@@ -1,4 +1,4 @@
-# Phrasal words
+# Phrasal verbs
 
 _Zvyslá čiara označuje pozíciu subjektu._
 
