@@ -35,6 +35,7 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **to hear something through the grapevine** - dopočuť sa (z druhej ruky)
 - **a big no-no** - niečo čo sa nerobí, je zakázané
 - **to spill the beans** - vyklopiť/prezradiť/povedať niečo
+- **to be full of beans** - mať veľa energie
 - **someone is no spring chicken** - niekto už nie je najmladší
 - **to chicken out** - vyhnúť sa niečomu kvôli strachu
 - **to run around like a headless chicken** - chaoticky sa chovať/pobehovať
