@@ -7,7 +7,7 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **bring | round** - _bring someone round_ - prinavrátiť niekomu vedomie
 - **bring | forward** - _bring a meeting forward_ - presunúť meeting na skorší čas
 - **bring out |** - _bring out an issue of a magazine_ - vydať časopis (číslo)
-- **bring up |** - _bring up a matter of a meeting_ - spomenúť/nadhodiť niečo v konverzácii
+- **bring up |** - _bring up a matter of a meeting_ - nadhodiť/spomenúť niečo v konverzácii
 - **bring in |** - _bring in someone from outside to help_ - zapojiť niekoho na pomoc
 - **bring about |** - _bring about something_ - spôsobiť niečo
 - **bring back |** - _bring back something_ - priniesť niečo späť
@@ -26,16 +26,21 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to be under a cloud** (of suspicion) - byť pod mrakom podozrenia
+- **to be on cloud nine** - byť v siedmom nebi
+- **to horse around** - robiť vylomeniny
+- **to hear something from the horse's muoth** - počuť niečo z originálneho zdroja
 - **being tight** - byť skúpy, šporovlivý
 - **to tighten your belt** - utianuť opasok, nerozhadzovať peniaze
 - **to hold your tongue** - držať jazyk za zubami
 - **to make a slip of the tongue** - prerieknuť sa / skomoliť
-- **a big deal** - niečo podstatné
 - **soar grapes** - čistá závisť
 - **to hear something through the grapevine** - dopočuť sa (z druhej ruky)
 - **a big no-no** - niečo čo sa nerobí, je zakázané
 - **to spill the beans** - vyklopiť/prezradiť/povedať niečo
 - **to be full of beans** - mať veľa energie
+- **a big deal** - niečo podstatné
+- **a big no-no** - ničo zakázané
 - **someone is no spring chicken** - niekto už nie je najmladší
 - **to chicken out** - vyhnúť sa niečomu kvôli strachu
 - **to run around like a headless chicken** - chaoticky sa chovať/pobehovať
