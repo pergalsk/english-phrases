@@ -2,6 +2,18 @@
 
 _Zvyslá čiara označuje pozíciu subjektu._
 
+## LOOK
+- **look up to |** - _look up to someone_ - vzhliadať k niekomu, obdivovať/vážiť si
+- **look up |** - _look up a phone number_ - nájsť telefónne číslo v zozname
+- **look for |** - _look for something_ - 
+- **look through |** - _look through newspaper_ - rýchlo prečítať/prelistovať
+- **look at |** - _look at (possibilities)_ - 
+- **look out for |** - __ - 
+- **look over |** - _look over (a report, plumbing)_ - 
+- **look into |** - __ - 
+- **look forward to |** - _look forward to something_ - čakať/tešiť sa na niečo
+- **look after |** - __ - 
+
 ## BRING
 
 - **bring | round** - _bring someone round_ - prinavrátiť niekomu vedomie
@@ -26,6 +38,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **duck!** - skrč sa! (keď hrozí úder)
+- **to duck out** - vyhnúť sa niečomu
+- **to toy with** - zahrávať sa (s človekom, citmi, očakávaniami...)
+- **a toyboy** - priateľ/milenec staršej ženy
 - **to be under a cloud** (of suspicion) - byť pod mrakom podozrenia
 - **to be on cloud nine** - byť v siedmom nebi
 - **to horse around** - robiť vylomeniny
