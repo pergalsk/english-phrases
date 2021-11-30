@@ -52,11 +52,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **to make a slip of the tongue** - prerieknuť sa / skomoliť
 - **soar grapes** - čistá závisť
 - **to hear something through the grapevine** - dopočuť sa (z druhej ruky)
-- **a big no-no** - niečo čo sa nerobí, je zakázané
 - **to spill the beans** - vyklopiť/prezradiť/povedať niečo
 - **to be full of beans** - mať veľa energie
 - **a big deal** - niečo podstatné
-- **a big no-no** - ničo zakázané
+- **a big no-no** - niečo čo sa nerobí, je zakázané
 - **someone is no spring chicken** - niekto už nie je najmladší
 - **to chicken out** - vyhnúť sa niečomu kvôli strachu
 - **to run around like a headless chicken** - chaoticky sa chovať/pobehovať
