@@ -3,16 +3,17 @@
 _Zvyslá čiara označuje pozíciu subjektu._
 
 ## LOOK
+
 - **look up to |** - _look up to someone_ - vzhliadať k niekomu, obdivovať/vážiť si
 - **look up |** - _look up a phone number_ - nájsť telefónne číslo v zozname
-- **look for |** - _look for something_ - 
+- **look for |** - _look for something_ -
 - **look through |** - _look through newspaper_ - rýchlo prečítať/prelistovať
-- **look at |** - _look at (possibilities)_ - 
-- **look out for |** - __ - 
-- **look over |** - _look over (a report, plumbing)_ - 
-- **look into |** - __ - 
+- **look at |** - _look at (possibilities)_ -
+- **look out for |** -
+- **look over |** - _look over (a report, plumbing)_ -
+- **look into |** -
 - **look forward to |** - _look forward to something_ - čakať/tešiť sa na niečo
-- **look after |** - __ - 
+- **look after |** -
 
 ## BRING
 
@@ -38,6 +39,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **what's up?** - čo sa deje? (UK), pozdrav (US)
+- **to be the cat's whiskers** - byť niečo extra
+- **in a nutshell** - v skratke, jednoducho povedané
+- **to be nuts** - byť bláznivý
 - **duck!** - skrč sa! (keď hrozí úder)
 - **to duck out** - vyhnúť sa niečomu
 - **to toy with** - zahrávať sa (s človekom, citmi, očakávaniami...)
@@ -60,7 +65,7 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **to chicken out** - vyhnúť sa niečomu kvôli strachu
 - **to run around like a headless chicken** - chaoticky sa chovať/pobehovať
 - **to chasing your tail** - naháňať svoj vlastný chvost
-- **vulture** - sup
-- **culture vulture** - kto žerie kultúru (doslovne: kultúrny sup)
 - **all the colours of the rainbow** - niečo pestrofarebné
 - **to chasing rainbows** - nahánať vzdušné zámky
+- **culture vulture** - kto žerie kultúru (doslovne: kultúrny sup)
+- **vulture** - sup
