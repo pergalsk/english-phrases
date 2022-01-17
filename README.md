@@ -4,16 +4,21 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 ## LOOK
 
-- **look up to |** - _look up to someone_ - vzhliadať k niekomu, obdivovať/vážiť si
-- **look up |** - _look up a phone number_ - nájsť telefónne číslo v zozname
-- **look for |** - _look for something_ -
-- **look through |** - _look through newspaper_ - rýchlo prečítať/prelistovať
-- **look at |** - _look at (possibilities)_ -
-- **look out for |** -
-- **look over |** - _look over (a report, plumbing)_ -
-- **look into |** -
 - **look forward to |** - _look forward to something_ - čakať/tešiť sa na niečo
-- **look after |** -
+- **look | up** - _to look something up_ - vyhľadať niečo
+- **look up** - _the situation is looking up_ - situácia sa začína zlepšovať, vyzerať lepšie
+- **look up to |** - _look up to someone_ - vzhliadať k niekomu, obdivovať/vážiť si
+- **look down on |** - _look down on someone_ - považovať niekoho za menejcenného
+- **look after |** - _look after someone_ - starať sa o niekoho
+- **look in on |** - _look in on someone_ - pozrieť/skontrolovať niekoho
+- **look | up** - _look a phone number up_ - vyhľadať (telefónne číslo v zozname)
+- **look for |** - _look for something_ - snažiť sa niečo nájsť
+- **look over |** - _look over (a report, plumbing)_ - rýchlo prekontrolovať, prezrieť
+- **look through |** - _look through newspaper_ - prečítať, prelistovať, prehľadať
+- **look into |** - _look into something_ - prešetriť, preskúmať
+- **look at |** - _look at (possibilities)_ - pozieť možnosti
+- **look out** - _look out!_ - pozor!
+- **look out for |** - _look out for someone_ - dať pozor, upriamiť sa na niečo, starať sa
 
 ## BRING
 
@@ -39,6 +44,8 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to miss the boat** - premárniť, zmeškať šancu, príležitosť
+- **to push the boat out** - nešetriť, poriadne (draho) niečo osláviť
 - **what's up?** - čo sa deje? (UK), pozdrav (US)
 - **to be the cat's whiskers** - byť niečo extra
 - **in a nutshell** - v skratke, jednoducho povedané
