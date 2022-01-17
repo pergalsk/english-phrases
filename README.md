@@ -38,9 +38,9 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **put | off** - _put something off_ - presunúť niečo na neskôr
 - **put | off** - _put someone off_ - odradiť niekoho (discourage)
 - **put | down** - _put an animal down_ - usmrtiť (humánne) zviera
-- **put | down** - _put someone down (by making a derogatory remark)_ -
+- **put | down** - _put someone down (by making a derogatory remark)_ - uraziť niekoho, ponížiť
 - **put | up** - _put somebody up_ - ubytovať niekoho
-- **put up with |** - _put up with (someone behaviour)_ - tolerovať
+- **put up with |** - _put up with (someone behaviour)_ - tolerovať niečo
 
 # Idioms
 
