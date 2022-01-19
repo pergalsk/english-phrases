@@ -44,6 +44,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **until you're blue in the face** - do bezvedomia (robiť, opakovať)
+- **to feel blue** - cítiť sa smutný, deprimovaný
+- **to be in the red** - byť na tom finančne zle
+- **to be in the pink** - byť v dobrom zdraví
 - **to miss the boat** - premárniť, zmeškať šancu, príležitosť
 - **to push the boat out** - nešetriť, poriadne (draho) niečo osláviť
 - **what's up?** - čo sa deje? (UK), pozdrav (US)
