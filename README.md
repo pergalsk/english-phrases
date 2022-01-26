@@ -2,10 +2,22 @@
 
 _Zvyslá čiara označuje pozíciu subjektu._
 
+## MAKE
+
+- **make | up** - _make something up_ - vymyslieť si niečo
+- **make up |** - _make up after argument_ - udobriť sa
+- **make up |** - _make up lost time_ - získať čas
+- **make up |**- _make up your mind_ - rozmyslieť si/rozhodnúť sa
+- **make up |**- _make up a spare bed_ - pripraviť posteľ (pre hosťa)
+- **make of |**- _make of someone/something_ - mať na niekoho/niečo názor
+- **make | out**- _make something out_ - rozoznať, rozpoznať niečo
+- **make out |**- _make out you are someone/something_ - predstierať/hrať sa na niekoho/niečo
+- **make for |**- _make for somewhere_ - zamieriť niekam, odísť niekam
+
 ## LOOK
 
 - **look forward to |** - _look forward to something_ - čakať/tešiť sa na niečo
-- **look | up** - _to look something up_ - vyhľadať niečo
+- **look | up** - _look something up_ - vyhľadať niečo
 - **look up** - _the situation is looking up_ - situácia sa začína zlepšovať, vyzerať lepšie
 - **look up to |** - _look up to someone_ - vzhliadať k niekomu, obdivovať/vážiť si
 - **look down on |** - _look down on someone_ - považovať niekoho za menejcenného
@@ -44,9 +56,13 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to butter up** - lichotiť, zaliečať sa, pochlebovať
+- **bread and butter** - denný chlieb, živobytie
+- **to look/feel green around the gills** - vyzerať/cítiť sa choro/nezdravo
+- **to be green with envy** - byť zelený od závisti
 - **until you're blue in the face** - do bezvedomia (robiť, opakovať)
 - **to feel blue** - cítiť sa smutný, deprimovaný
-- **to be in the red** - byť na tom finančne zle
+- **to be in the red** - byť na tom finančne zle, v červených číslach
 - **to be in the pink** - byť v dobrom zdraví
 - **to miss the boat** - premárniť, zmeškať šancu, príležitosť
 - **to push the boat out** - nešetriť, poriadne (draho) niečo osláviť
