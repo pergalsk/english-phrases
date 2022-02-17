@@ -2,6 +2,20 @@
 
 _Zvyslá čiara označuje pozíciu subjektu._
 
+## TURN
+
+- **turn on |** - _turn on something_ - zapnúť niečo/spotrebič
+- **turn off |** - _turn on something_ - vypnúť niečo/spotrebič
+- **turn up |** - _turn up power/volume_ - zvýšiť výkon/hlasitosť
+- **turn up |** - _turn up unexpectedly_ - objaviť sa nečakane alebo po dlhšom čase
+- **turn down |** - _turn down power/volume_ - znížiť výkon/hlasitosť
+- **turn down |** - _turn down something_ - zamietnuť niečo (žiadosť)
+- **turn | into** - _turn somebody into something_ - premeniť niekoho na niečo
+- **turn over** - _turn over something_ - otočiť niečo naopak, prevrátiť opačne
+- **turn back** - _turn back_ - otočiť sa naspäť, vrátiť sa
+- **turn away** - _to be turned away_ - otočiť/nepustiť niekoho a poslať preč
+- **turn out** - _turn out to be something_ - ukázať sa, že je to inak
+
 ## MAKE
 
 - **make | up** - _make something up_ - vymyslieť si niečo
@@ -56,6 +70,13 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to be on the same page** - myslieť rovnako, byť na jednej vlne
+- **to turn the page** - obrátiť list (za niečim)
+- **key to something** - kľúč/cesta k niečomu
+- **keyed up (about something)** - byť z niečoho vzrušený, nervózny, nadšený
+- **a load of rubbish** - niečo veľmi nekvalitné, alebo nepravdivé, nezmysel
+- **to put something on ice** - posunúť, odložiť niečo na neskôr
+- **to break the ace** - prelomiť ľady, dostať do pohody
 - **to butter up** - lichotiť, zaliečať sa, pochlebovať
 - **bread and butter** - denný chlieb, živobytie
 - **to look/feel green around the gills** - vyzerať/cítiť sa choro/nezdravo
