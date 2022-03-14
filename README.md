@@ -2,6 +2,19 @@
 
 _Zvyslá čiara označuje pozíciu subjektu._
 
+## TAKE
+
+- **take to |** - _take to someone_ - obľúbiť si niekoho hneď
+- **take up |** - _take up time_ - získať čas
+- **take down |** - _take down information in writing_ - zapísať si niečo, poznámku
+- **take over |** - _take over_ - prevziať kontrolu
+- **take | back** - _take something back to a shop_ - vrátiť niečo späť (do obchodu / alebo požičané)
+- **take on |** - _take on responsibility_ - mať viac zdopovednosti alebo práce
+- **take on |** - _take on staff_ - zamestnať niekoho nového, najať personál
+- **take | in** - _take someone in_ - oklamať niekoho, aby veril v niečo nepravdivé
+- **take in |** - _take in information_ - pochopiť a zapamätať si informáciu
+- **take care of |** - _take care of something or someone_ - postarať sa o niečo, niekoho
+
 ## TURN
 
 - **turn on |** - _turn on something_ - zapnúť niečo/spotrebič
@@ -21,12 +34,12 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **make | up** - _make something up_ - vymyslieť si niečo
 - **make up |** - _make up after argument_ - udobriť sa
 - **make up |** - _make up lost time_ - získať čas
-- **make up |**- _make up your mind_ - rozmyslieť si/rozhodnúť sa
-- **make up |**- _make up a spare bed_ - pripraviť posteľ (pre hosťa)
-- **make of |**- _make of someone/something_ - mať na niekoho/niečo názor
-- **make | out**- _make something out_ - rozoznať, rozpoznať niečo
-- **make out |**- _make out you are someone/something_ - predstierať/hrať sa na niekoho/niečo
-- **make for |**- _make for somewhere_ - zamieriť niekam, odísť niekam
+- **make up |** - _make up your mind_ - rozmyslieť si/rozhodnúť sa
+- **make up |** - _make up a spare bed_ - pripraviť posteľ (pre hosťa)
+- **make of |** - _make of someone/something_ - mať na niekoho/niečo názor
+- **make | out** - _make something out_ - rozoznať, rozpoznať niečo
+- **make out |** - _make out you are someone/something_ - predstierať/hrať sa na niekoho/niečo
+- **make for |** - _make for somewhere_ - zamieriť niekam, odísť niekam
 
 ## LOOK
 
@@ -70,6 +83,17 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **a dead duck** - niečo neúspešné
+- **to be as dead as a dodo** - trend, myšlienka, ktorá je úplne mŕtva
+- **on the house** - na účet podniku
+- **to bring the house down** - ohromiť výkonom a zožať úspech
+- **to fish for compliments** - kritizovať sa aby ľudia chválili
+- **to be a fish out of water** - byť ako ryba na suchu, nepohodlná situácia
+- **to crack on (with)** - posnažiť sa rýchlo niečo urobiť
+- **shades of gray** - niečo nie tak jasné, kde nie je všetko čiernobile
+- **a grey area** - šedá zóna, mimo jasných pravidiel
+- **to be like Fort Knox** - byť ako pevnosť
+- **to hold the forth** - zastúpiť, postrážiť miesto, pracovisko
 - **to be on the same page** - myslieť rovnako, byť na jednej vlne
 - **to turn the page** - obrátiť list (za niečim)
 - **key to something** - kľúč/cesta k niečomu
