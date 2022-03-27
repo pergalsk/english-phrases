@@ -83,6 +83,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to bite off more than someone can chew** - odhryznúť si priveľký kus
+- **to cry crocodile tears** - tvariť sa uplakane, roniť krokodílie slzy
+- **someone is two-faced** - niekto má dve tváre, klame na jednú alebo druhú stranu
+- **to loose face** - stratiť rešpekt
 - **a dead duck** - niečo neúspešné
 - **to be as dead as a dodo** - trend, myšlienka, ktorá je úplne mŕtva
 - **on the house** - na účet podniku
