@@ -83,6 +83,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to have a big mouth** - byť táraj, ukecaný, prezrádzať tajomstvá
+- **to be all mouth and no trousers** - niekto, kto má veľké reči ale žiaden skutok
+- **catty (comments, remarks)** - uštipačné poznámky
+- **to be a fat cat** - byť mocný a bohatý
 - **to bite off more than someone can chew** - odhryznúť si priveľký kus
 - **to cry crocodile tears** - tvariť sa uplakane, roniť krokodílie slzy
 - **someone is two-faced** - niekto má dve tváre, klame na jednú alebo druhú stranu
