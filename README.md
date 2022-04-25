@@ -83,12 +83,16 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to weigh in** - vyjadriť názor v diskusii
+- **to weigh up** - zvažovať možnosti
+- **with bare hands** - holými rukami
+- **with one/both hands tied behind someones back** - urobiť niečo ľahko, "ľavou zadnou"
 - **to have a big mouth** - byť táraj, ukecaný, prezrádzať tajomstvá
 - **to be all mouth and no trousers** - niekto, kto má veľké reči ale žiaden skutok
 - **catty (comments, remarks)** - uštipačné poznámky
 - **to be a fat cat** - byť mocný a bohatý
 - **to bite off more than someone can chew** - odhryznúť si priveľký kus
-- **to cry crocodile tears** - tvariť sa uplakane, roniť krokodílie slzy
+- **to cry crocodile tears** - tváriť sa uplakane, roniť krokodílie slzy
 - **someone is two-faced** - niekto má dve tváre, klame na jednú alebo druhú stranu
 - **to loose face** - stratiť rešpekt
 - **a dead duck** - niečo neúspešné
