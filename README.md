@@ -2,6 +2,19 @@
 
 _Zvyslá čiara označuje pozíciu subjektu._
 
+## GO
+
+- **go up |** - _go up (prices)_ - zvyšovať (ceny)
+- **go on |** - _go on a course/trip_ - robiť si kurz, ísť na výlet
+- **go off |** - _go off (alarm, bomb, lights)_ - aktivovať (alarm), vybuchnúť (bombu), zhasnúť (svetlá)
+- **go off |** - _go off (food)_ - pokaziť sa, skysnúť, splesnivieť
+- **go back |** - _go back to the XY century_ - mať pôvod v XY storočí
+- **go back |** - _go back to somewhere_ - vrátiť sa niekam
+- **go trough |** - _go trough an experience_ - zažívať, prechádzať si niečim
+- **go trough |** - _go through an exam_ - prejsť skúškou/cvičením
+- **go out |** - _go out of a room/building_ - odísť z budovy/miestnosti
+- **go out with |** - _go out with someone_ - chodiť s niekým
+
 ## TAKE
 
 - **take to |** - _take to someone_ - obľúbiť si niekoho hneď
