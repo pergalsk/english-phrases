@@ -167,7 +167,7 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **culture vulture** - kto žerie kultúru (doslovne: kultúrny sup)
 - **vulture** - sup
 
-# Garmmar
+# Grammar
 
 ## Although | Despite | In Spite of
 
