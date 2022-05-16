@@ -169,6 +169,20 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Grammar
 
+## Conditionals
+
+- **0 | IF + PRESENT simple, PRESENT simple** \
+  _If you heat water to 100 deg, it boils._
+
+- **1st | IF + PRESENT simple, WILL** \
+  _If it rains, I will take an umbrella._
+
+- **2nd | IF + PAST simple, WOULD** \
+  _If I were you, I would do it differently._
+
+- **3rd | IF + PAST PERFECT simple, WOULD HAVE DONE** \
+  _If I had known you were in a hospital, I would have come to visit you._
+
 ## Although | Despite | In Spite of
 
 - **although** (hoci) \
