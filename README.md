@@ -166,3 +166,45 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **to chasing rainbows** - nahánať vzdušné zámky
 - **culture vulture** - kto žerie kultúru (doslovne: kultúrny sup)
 - **vulture** - sup
+
+# Garmmar
+
+## Although | Despite | In Spite of
+
+- **although** (hoci) \
+  Subject + Verb
+
+  Although I was ill, I went out. \
+  _Hoci som bol chorý, išiel som von._
+
+  Although it was raining, we went out. \
+  _Hoci pršalo, išli sme von._
+
+- **despite / in spite of** (napriek) \
+  ...ing / Noun / Pronoun
+
+  Despite being ill, I went out. \
+  In spite of being ill, I went out. \
+  _Napriek tomu, že som chorý, išiel som von._
+
+  Despite the rain, we went out. \
+  In spite of the rain, we went out. \
+  _Napriek dažďu, sme išli von._
+
+  It rained. In spite of that, we went out. \
+  _Pršalo. Napriek tomu, išli sme von._
+
+# Other
+
+## Vocabulary
+
+- **shirk** - vyhnúť sa (zodpobednosti)
+- **hinder** - prekážať, brániť (oposit of help)
+- **dread** - hroziť sa, báť sa niečoho v budúcnosti
+- **cherish** - opatrovať, veľmi si vážiť (Glum and his ring)
+- **thrive** - prosperovať (in business: thrive or survive)
+- **crave** - silno túžiť po niečom (pregnant women have strong craves)
+- **jeopardize** - ohroziť niečo
+- **tackle** - zápasiť s problémom (vyvýjať úsilie)
+- **hasten** - urýchliť, poponáhľať
+- **embrace** - prijať/podporiť niečo nadšene (tiež: objať)
