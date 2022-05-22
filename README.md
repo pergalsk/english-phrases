@@ -96,6 +96,14 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **putting out fires** - hasiť problémy
+- **to get on like a house on fire** - sadnúť si s niekým, ľahko byť s niekým priateľ
+- **it never rains but it pours** - konštatovanie, že prolémy prídu vždy naraz
+- **to pour cold water on** - dať studenú sprchu, schladiť niekoho, zhodiť nápad
+- **to play your cards right** - robiť veci správne aby sa dostavil úspech
+- **to lay/put your cards on the table** - byť otvorený a úprimný, vyložiť karty na stôl
+- **to be full of hot air** - hovoriť veľa o niečom, ale nebyť úprimný
+- **to clear the air** - vyčistiť vzduch, uvoľniť napätie, zanechať spory
 - **to weigh in** - vyjadriť názor v diskusii
 - **to weigh up** - zvažovať možnosti
 - **with bare hands** - holými rukami
@@ -212,6 +220,8 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 ## Vocabulary
 
+#1
+
 - **shirk** - vyhnúť sa (zodpobednosti)
 - **hinder** - prekážať, brániť (oposit of help)
 - **dread** - hroziť sa, báť sa niečoho v budúcnosti
@@ -222,3 +232,18 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **tackle** - zápasiť s problémom (vyvýjať úsilie)
 - **hasten** - urýchliť, poponáhľať
 - **embrace** - prijať/podporiť niečo nadšene (tiež: objať)
+
+#2
+
+- **paramount** - important, (paramount importance)
+- **trifling** - unimportant (no trifling matter)
+- **riveting** - iteresting (absolutely riveting)
+- **dull** - extremely boring
+- **outstanding** - very good
+- **dreadful** - very bad
+- **quaind** - pretty, charming
+- **hideous** - extremly ugly
+- **straightforward** - primočiaro
+- **baffling** - confusing, difficult to understand
+- **sizable** - big (sizable amount of money)
+- **paltry** - small (a paltry salary)
