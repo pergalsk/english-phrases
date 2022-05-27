@@ -247,3 +247,16 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **baffling** - confusing, difficult to understand
 - **sizable** - big (sizable amount of money)
 - **paltry** - small (a paltry salary)
+
+#3
+
+- **codswallop** - nonsense, rubbish
+- **malarky** - nonsense, silly talk
+- **kerfuffle** - commotion, disorder, fuss
+- **thingamajig** - something that you can't remember the word for
+- **bamboozle** - to trick someone by confusing them
+- **whimsical** - capritious, playful, not serious
+- **lackadaisical** - lacking energy and enthusiasm
+- **discombobulated** - confused, disconserted
+- **melancholia** - a deep feeling of sadness
+- **wanderlust** - strong desire to travel
