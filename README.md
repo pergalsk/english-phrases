@@ -2,6 +2,19 @@
 
 _Zvyslá čiara označuje pozíciu subjektu._
 
+## GET
+
+- **get on with |** - _get on with someone_ - vychádzať s niekým, mať dobrý vzťah
+- **get over |** - _get over an illness or bad experience_ - uzdraviť sa z niečoho
+- **get into |** - _get into somewhere_ - vlámať sa, poničením sa dostať niekam
+- **get away with |** - _get away with something_ - prepiecť sa, vyhnúť sa strestu
+- **get on |** - _get on a bus/train_ - nastúpiť do autobusu/vlaku
+- **get off |** - _get off a bus/train_ - vystúpiť z autobusu/vlaku
+- **get round |** - _get round someone_ - presvedčiť niekoho na niečo
+- **get up to |** - _get up to something bad_ - robiť niečo nezbedné
+- **get into |** - _get into trouble_ - dostať sa do problémov
+- **get | down** - _get someone down_ - deprimovať niekoho
+
 ## GO
 
 - **go up |** - _go up (prices)_ - zvyšovať (ceny)
@@ -58,12 +71,12 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 - **look forward to |** - _look forward to something_ - čakať/tešiť sa na niečo
 - **look | up** - _look something up_ - vyhľadať niečo
+- **look | up** - _look a phone number up_ - vyhľadať (telefónne číslo v zozname)
 - **look up** - _the situation is looking up_ - situácia sa začína zlepšovať, vyzerať lepšie
 - **look up to |** - _look up to someone_ - vzhliadať k niekomu, obdivovať/vážiť si
 - **look down on |** - _look down on someone_ - považovať niekoho za menejcenného
 - **look after |** - _look after someone_ - starať sa o niekoho
 - **look in on |** - _look in on someone_ - pozrieť/skontrolovať niekoho
-- **look | up** - _look a phone number up_ - vyhľadať (telefónne číslo v zozname)
 - **look for |** - _look for something_ - snažiť sa niečo nájsť
 - **look over |** - _look over (a report, plumbing)_ - rýchlo prekontrolovať, prezrieť
 - **look through |** - _look through newspaper_ - prečítať, prelistovať, prehľadať
@@ -96,6 +109,10 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 # Idioms
 
+- **to keep your eyes peeled** - byť v strehu, dávať pozor
+- **to keep your nose out** - nestrkať nos, nemiešať sa
+- **to be at liberty to do something** - mať slobodu robiť niečo
+- **to take liberties with something/someone** - prekračovať hranice v niečom/voči niekomu
 - **putting out fires** - hasiť problémy
 - **to get on like a house on fire** - sadnúť si s niekým, ľahko byť s niekým priateľ
 - **it never rains but it pours** - konštatovanie, že prolémy prídu vždy naraz
@@ -180,16 +197,32 @@ _Zvyslá čiara označuje pozíciu subjektu._
 ## Conditionals
 
 - **0 | IF + PRESENT simple, PRESENT simple** \
-  _If you heat water to 100 deg, it boils._
+  _If the weather is good, I go to the beach._ \
+  _If you heat water to 100 deg, it boils._ \
+  _If it rains, the grass gets wet._ \
+  _If you are talking, I can't concentrate._
 
 - **1st | IF + PRESENT simple, WILL** \
-  _If it rains, I will take an umbrella._
+  _If the weather is good tomorrow, I will go to the beach._ \
+  _If you heat that water to 100 deg, it will boil._ \
+  _If it rains, I will take an umbrella._ \
+  _If you don't hurry, you will miss the train._ \
+  _If he doesn't call you, tell me immediately._
 
 - **2nd | IF + PAST simple, WOULD** \
-  _If I were you, I would do it differently._
+  _If the weather were good, I would go to the beach._ \
+  _If you heated that water to 100 deg, it would boil._ \
+  _If I were you, I would do it differently._ \
+  _If you went to bed earlier, you wouldn't be so tired._ \
+  _If you weren't talking, I could concentrate._
 
 - **3rd | IF + PAST PERFECT simple, WOULD HAVE DONE** \
-  _If I had known you were in a hospital, I would have come to visit you._
+  _If the weather had been good, I would have gone to the beach._ \
+  _If you had heated that water to 100 deg, it would have boiled._ \
+  _If I had known you were in a hospital, I would have come to visit you._ \
+  _If I had studied harder, I would have passed the exam._ \
+  _If I hadn't been sick, I would have gone to your party._ \
+  _If he hadn't been wearing a helmet, he could have died._
 
 ## Although | Despite | In Spite of
 
@@ -222,11 +255,11 @@ _Zvyslá čiara označuje pozíciu subjektu._
 
 #1
 
-- **shirk** - vyhnúť sa (zodpobednosti)
+- **shirk** - vyhnúť sa (zodpovednosti)
 - **hinder** - prekážať, brániť (oposit of help)
 - **dread** - hroziť sa, báť sa niečoho v budúcnosti
 - **cherish** - opatrovať, veľmi si vážiť (Glum and his ring)
-- **thrive** - prosperovať (in business: thrive or survive)
+- **thrive** - prosperovať, prekvitať (in business: thrive or survive)
 - **crave** - silno túžiť po niečom (pregnant women have strong craves)
 - **jeopardize** - ohroziť niečo
 - **tackle** - zápasiť s problémom (vyvýjať úsilie)
@@ -260,3 +293,16 @@ _Zvyslá čiara označuje pozíciu subjektu._
 - **discombobulated** - confused, disconserted
 - **melancholia** - a deep feeling of sadness
 - **wanderlust** - strong desire to travel
+
+#4
+
+- **name & shame** - publicly release name of somebody
+- **chick flick** - film for girls and young women
+- **rom com** - romantic commedy
+- **chock-a-block** - very crowded place
+- **mumbo-jumbo** - nonsesical talk
+- **wine & dine** - to entertain someone
+- **doom & gloom** - everything negative
+- **to huff & puff** - breathing very heavily
+- **brain drain** - emigration of talent
+- **by hook or by crook** - by any possible means
